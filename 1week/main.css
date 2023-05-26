@@ -1,11 +1,11 @@
 div {
-  display: inline;
+  display: none;
 }
 
 #id-box {
     border-radius: 5px;
-  }
+}
 
   #psw-box {
     border-radius: 5px;
-  }
+}
