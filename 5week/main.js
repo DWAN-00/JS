@@ -9,3 +9,5 @@ function sendAnswer() {
     alert("오답");
   }
 }
+
+//input이 아니라 form의 event를 listen해야 submit할 때 반응한다 ㅇㅇ;;;;;;왜 그럴까
