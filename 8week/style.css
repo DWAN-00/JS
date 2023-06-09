@@ -1,0 +1,28 @@
+.container {
+    width: 300vw;
+    display: flex;
+    flex-wrap: nowrap;
+    transition: all 1s;
+}
+
+.slide-container {
+    transform: translateX(-200vw);
+}
+
+.progress1 {
+    width: 100vw;
+    padding: 6rem;
+    background-color: gray;
+}
+
+.progress2 {
+    width: 100vw;
+    padding: 6rem;
+    background-color: rgb(63, 168, 221);
+}
+
+.progress3 {
+    width: 100vw;
+    padding: 6rem;
+    background-color: rgb(140, 241, 156);
+}
